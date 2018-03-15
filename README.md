@@ -6,7 +6,7 @@ Classify samples as positive or negative having only positive training examples.
 The SVM framework enables the use of non-linear kernels that help capturing the shape of the
 training examples.
 
-novel implements the one-class SVM classifier, based on the paper  
+*novel* implements the one-class SVM classifier, based on the paper  
 [Support Vector Data Description](https://link.springer.com/article/10.1023/B:MACH.0000008084.60811.49)
 of Tax et al.
 
