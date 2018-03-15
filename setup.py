@@ -1,15 +1,15 @@
 from setuptools import setup
 # from distutils.core import setup
 
-setup(name='lemonpy',
-      packages=['lemonpy'],
-      version='0.1.0',
-      description='Template for new Python packages',
+setup(name='anomaly',
+      packages=['anomaly'],
+      version='0.0.1',
+      description='Anomaly detection in Python',
       author='Theodore Tsitsimis',
       author_email='th.tsitsimis@gmail.com',
       url='https://github.com/tsitsimis/lemonpy',
-      download_url='https://github.com/tsitsimis/lemonpy/archive/0.0.2.tar.gz',
-      keywords=['skeleton', 'package'],
+      download_url='https://github.com/tsitsimis/anomaly/archive/0.0.1.tar.gz',
+      keywords=['anomaly', 'svm', 'machine learning'],
       license='MIT',
       classifiers=[
           'Development Status :: 3 - Alpha',
@@ -19,10 +19,11 @@ setup(name='lemonpy',
 
           'License :: OSI Approved :: MIT License',
 
-          'Programming Language :: Python :: 3.4'
+          'Programming Language :: Python :: 2.7'
       ],
       install_requires=[
           'numpy',
+          'cvxopt'
       ],
       zip_safe=False
       )
