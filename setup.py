@@ -1,15 +1,15 @@
 from setuptools import setup
 # from distutils.core import setup
 
-setup(name='anomaly',
-      packages=['anomaly'],
+setup(name='novel',
+      packages=['novel'],
       version='0.0.1',
-      description='Anomaly detection in Python',
+      description='Novelty detection in Python',
       author='Theodore Tsitsimis',
       author_email='th.tsitsimis@gmail.com',
       url='https://github.com/tsitsimis/lemonpy',
-      download_url='https://github.com/tsitsimis/anomaly/archive/0.0.1.tar.gz',
-      keywords=['anomaly', 'svm', 'machine learning'],
+      download_url='https://github.com/tsitsimis/novel/archive/0.0.1.tar.gz',
+      keywords=['novelty', 'svm', 'machine learning'],
       license='MIT',
       classifiers=[
           'Development Status :: 3 - Alpha',

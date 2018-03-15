@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 from sklearn.datasets import make_blobs, make_moons
-from anomaly import OneClassSVM as OneSVM
-import anomaly.kernels as kernels
+from novel import OneClassSVM as OneSVM
+import novel.kernels as kernels
 
 
 # data
