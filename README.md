@@ -14,7 +14,7 @@ of Tax et al.
 moon-shaped dataset  
 Rational Quadratic kernel  
 
-<img src="./tests/images/Figure_1.png"/>
+<img src="./tests/images/Figure_1.png" width="50%"/>
 
 # Dependencies
 * numpy
