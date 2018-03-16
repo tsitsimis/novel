@@ -10,15 +10,15 @@ training examples.
 [Support Vector Data Description](https://link.springer.com/article/10.1023/B:MACH.0000008084.60811.49)
 of Tax et al.  
 
-# Examples
+## Examples
 moon-shaped dataset  
 Rational Quadratic kernel  
 
 <img src="./tests/images/Figure_1.png" width="50%"/>
 
-# Dependencies
+## Dependencies
 * numpy
 * cvxopt
 
-# Installation
+## Installation
 pip install novel
