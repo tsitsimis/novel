@@ -1,9 +1,9 @@
 # novel
 
-Novelty detection, anomaly detection and one-class classification, all mean the same thing:
+*Novelty detection*, *anomaly detection* and *one-class classification*, all mean the same thing:
 Classify samples as positive or negative having only positive training examples.  
 
-The SVM framework enables the use of non-linear kernels that help capturing the shape of the
+The SVM-based framework used by *novel* enables the use of non-linear kernels that help capturing the shape of the
 training examples.
 
 *novel* implements the one-class SVM classifier, based on the paper  
