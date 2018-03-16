@@ -21,4 +21,4 @@ Rational Quadratic kernel
 * cvxopt
 
 ## Installation
-pip install novel
+~$ pip install novel
